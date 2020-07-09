@@ -1,0 +1,4 @@
+baseURL = "http://xixi.org/"
+languageCode = "en-us"
+title = "XiXi site"
+theme = "ananke"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XiXi site</title>
+    <link>http://xixi.org/</link>
+    <description>Recent content on XiXi site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jul 2020 11:01:46 +0800</lastBuildDate>
+    
+	<atom:link href="http://xixi.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://xixi.org/posts/my-first-post/</link>
+      <pubDate>Thu, 09 Jul 2020 11:01:46 +0800</pubDate>
+      
+      <guid>http://xixi.org/posts/my-first-post/</guid>
+      <description>This is my fist bolg.</description>
+    </item>
+    
+  </channel>
+</rss>
