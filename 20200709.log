@@ -31,3 +31,15 @@ Change detected, rebuilding site.
 2020-07-09 11:36:24.304 +0800
 Source changed "/Users/tanmengxi/workspace/tech_blog/quickstart/content/posts/my-first-post.md": WRITE
 Total in 2 ms
+
+Change of config file detected, rebuilding site.
+2020-07-09 11:48:59.285 +0800
+Rebuilt in 50 ms
+
+Change of config file detected, rebuilding site.
+2020-07-09 11:49:01.337 +0800
+Rebuilt in 43 ms
+
+Change of config file detected, rebuilding site.
+2020-07-09 11:53:10.278 +0800
+Rebuilt in 39 ms
